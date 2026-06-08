@@ -1,5 +1,5 @@
 {
-  "name": "product-search-smoke-test",
+  "name": "smoke-test",
   "version": "0.1.0",
   "private": true,
   "scripts": {
